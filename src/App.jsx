@@ -1,4 +1,4 @@
-import Header from "./components/Header/header.jsx";
+import Header from "./components/Header/Header.jsx";
 //header eroor
 import Hero from "./components/Hero/Hero";
 import  Sales  from "./components/Sale_Cards/Sale_Cards";
