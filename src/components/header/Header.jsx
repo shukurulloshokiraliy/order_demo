@@ -2,7 +2,7 @@ import React from "react";
 import loc from "../../assets/images/loc.svg";
 import korzinka from "../../assets/images/korzinka.svg";
 import forward from "../../assets/images/Forward_Btn.svg";
-import logo from "../../assets/images/logo.svg";
+import logo from "../../assets/images/Logo.svg";
 import user from "../../assets/images/user.svg";
 
 const Header = ({ 
